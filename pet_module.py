@@ -1,3 +1,6 @@
+class Pet:
+    
+
 # Initialize pet attributes
     def __init__(self, name, animal_type, age):
         self.__name = name
